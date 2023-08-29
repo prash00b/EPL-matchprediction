@@ -18,7 +18,7 @@ It uses a number of open source projects to work properly:
 - [Pandas]- Popular Python library for data manipulation and analysis using Series and DataFrames.
 
 
-##Installation
+## Installation
 Install the dependencies
 ```
 pip install numpy
@@ -27,7 +27,7 @@ pip install flask
 ```
 
 
-##EPL Prediction
+## EPL Prediction
 1. Open the main.py file and run it.
 2. The flask hosted website will run.
 3. Choose between two teams and get the odds of win, loss and draw between them.
