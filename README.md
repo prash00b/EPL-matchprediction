@@ -1,5 +1,5 @@
 # EPL-matchprediction
-## _A win, loss and draw odds generation among two football team
+## A win, loss and draw odds generation among two football team
 
 A machine learning project that lets you generate odds between two teams loss, win and draw.
 
